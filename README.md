@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Harry</h1>
+<h1 align="center">Hi, I'm Harry</h1>
 <h3 align="center">A Games Programmer studying Computer Science for Games at the University of Brighton</h3>
 
 - 🔭 I’m currently working on [a multiplayer game server written in C++ and a client written in Java](https://github.com/harryjduke/multiplayer-game_server)
 
 - 👨‍💻 All of my projects are available at [harryjduke.com](harryjduke.com)
 
-- 📫 How to reach me **harryjduke@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harryduke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harryduke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harryduke" target="blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#8aadf4" d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93zM6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37z"/></svg></a>
+<a href="mailto:harryjduke@gmail.com" target="blank"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#ed8796" d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2zm-2 0l-8 5l-8-5zm0 12H4V8l8 5l8-5z"/></svg></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
